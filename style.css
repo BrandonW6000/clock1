@@ -45,8 +45,8 @@ body {
 }
 
 #minute-hand {
-    border-top: solid 60px #90a4ae;
-    border-bottom: solid 85px transparent;
+    border-top: solid 85px #90a4ae;
+    border-bottom: solid 60px transparent;
     width: 4.5px;
     position: absolute;
     left: 99.9px;
