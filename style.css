@@ -18,9 +18,9 @@ body {
 }
 
 #clock, #clock-numbers {
-    height: 200px;
-    width: 200px;
-    background: #12090578;
+    height: 250px;
+    width: 250px;
+    background: #12000578;
     margin: auto;
     border-radius: 100%;
     position: relative;
